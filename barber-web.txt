@@ -1,0 +1,41 @@
+barber-WEB
+yarn create next-app barber-web --typescript
+
+https://chakra-ui.com/getting-started/nextjs-guide
+
+yarn add @chakra-ui/react @chakra-ui/next-js @emotion/react @emotion/styled framer-motion
+yarn add axios nookies jwt-decode
+
+npx @next/codemod@latest next-image-to-legacy-image .
+
+https://nextjs.org/docs/messages/next-image-upgrade-to-13
+
+
+https://react-icons.github.io/react-icons/
+yarn add react-icons
+
+
+npx @next/codemod next-image-to-legacy-image 
+npx @next/codemod@latest built-in-next-font 
+
+
+npm install @codemod/cli
+
+
+
+
+
+https://dashboard.stripe.com/settings/account
+
+acct_1O4TjzD1frNThlpj
+
+lqeu-vnfi-wvul-lgtg-nhvo
+
+pk_live_51O4TjzD1frNThlpjMk7MlKicCcI82dxhCmpIZdRu1njL9sOr82ZETHgPncKUEJmjJbSEqDzhfGyY3JaG8ryvPfz400VzgpApWg
+
+
+yarn add stripe
+yarn add @stripe/stripe-js
+
+
+https://www.facebook.com/profile.php?id=100009131744232
